@@ -1,0 +1,32 @@
+{
+  "name": "node-root",
+  "version": "0.1.0",
+  "description": "Restful API Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/drGrove/node-root.git"
+  },
+  "keywords": [
+    "Restful",
+    "API",
+    "Generator",
+    "Rest",
+    "API"
+  ],
+  "author": "Daniel Grove <danny@drgrovellc.com>",
+  "license": "N/A",
+  "bugs": {
+    "url": "https://github.com/drGrove/node-root/issues"
+  },
+  "homepage": "https://github.com/drGrove/node-root",
+  "dependencies": {
+    "orm": "~2.1.3",
+    "pg": "~2.8.4",
+    "mysql": "~2.0.0-rc2",
+    "express": "~3.4.7"
+  }
+}
